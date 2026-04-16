@@ -22,6 +22,7 @@ A community-maintained directory of **Better LGU** digital transparency portals 
 | General Santos City, South Cotabato | [bettergensan.org](https://bettergensan.org)          | [GitHub](https://github.com/psalmcatulpos/bettergensan)                        | -                                                                  | 🟢 Active | [@psalmcatulpos](https://github.com/psalmcatulpos)                                     |
 | Dasmariñas City, Cavite             | [betterdasmarinas.org](https://betterdasmarinas.org)  | [GitHub](https://github.com/Shuashuaa/BetterDasmarinas)                        | [Facebook](https://www.facebook.com/profile.php?id=61570802813363) | 🟢 Active | [@Shuashuaa](https://github.com/Shuashuaa)                                             |
 | General Trias, Cavite | [bettergeneraltrias.org](https://www.bettergeneraltrias.org/) | [GitHub](https://github.com/kenhehe/betterGeneraltrias) | [Facebook](https://www.facebook.com/betterGeneralTrias) | 🟢 Active | [@kenhehe](https://github.com/kenhehe) |                        |
+| San Pedro, Laguna | — | [GitHub](https://github.com/sechipeanut/BetterSanPedro) | — | 🟡 Work in Progress | [@sechipeanut](https://github.com/sechipeanut) |
 <!-- SYNC_LGU_TABLE_END -->
 
 > Want to add your LGU? See the [Contributing Guide](CONTRIBUTING.md).
