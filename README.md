@@ -29,6 +29,7 @@ A community-maintained directory of **Better LGU** digital transparency portals 
 | Allen, Northern Samar | — | [GitHub](https://github.com/xandreiAThome/betterallen) | — | 🟡 Work in Progress  | [@xandreiAThome](https://github.com/xandreiAThome) |
 | Aparri, Cagayan Valley | — | [GitHub](https://github.com/egiebk/betteraparri) | — | 🟡 Work in Progress | [@egiebk](https://github.com/egiebk) |
 | San Pablo, Laguna | — | [GitHub](https://github.com/ChristiannWick/bettersanpablo) | — | 🔵 Planned  | [@ChristiannWick](https://github.com/ChristiannWick) |
+| Binangonan, Rizal | — | [GitHub](https://github.com/betterbinangonan-devs/betterbinangonan) | [Facebook](https://www.facebook.com/BetterBinangonan.org) | 🟡 Work in Progress | [@emmanpbarrameda](https://github.com/emmanpbarrameda), [@chaaals](https://github.com/chaaals) |
 
 <!-- SYNC_LGU_TABLE_END -->
 
